@@ -11,7 +11,7 @@ import {
 
 const styles = (theme) => ({
     title: {
-        maxWidth: '20em',
+        maxWidth: '25em',
         overflow: 'hidden',
         textOverflow: 'ellipsis',
         whiteSpace: 'nowrap'
